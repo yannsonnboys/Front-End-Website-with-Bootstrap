@@ -1,0 +1,159 @@
+
+/* ============================== Index =================== */
+
+/* Body Index Style */
+
+body {
+	background-color: white;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+.container_1 {
+	margin-top: 60px;
+}
+
+.container_2 {
+	margin-top: 90px;
+}
+
+.h4_logo_title {
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 5%, rgba(0,212,255,1) 100%);
+	color: #FFFFFF;
+	border-radius: 5px;
+	padding: 10px 10px;
+}
+
+.section1 {
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+	margin: 10px;
+	width: auto;
+	height: 450px;
+}
+
+.h1_1 {
+	padding-top: 70px;
+	color: #FFFFFF;
+}
+
+.h2_1 {
+	color: #FFFFFF;
+}
+
+.form_1 {
+	margin-top: -80px;
+	/*padding: 0px 90px;*/
+
+}
+
+.form_1 .visually {
+	color: white;
+}
+
+.rating {
+	margin: 10px;
+}
+
+.rating .fa {
+	color: #f1ab17;
+}
+
+
+.section2 {
+	margin-bottom: -70px; 
+}
+
+/* Remove the Underline from Links in CSS */
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+
+/* ================== Proposals ================ */
+
+/* Proposals Style */
+.img_1 {
+	margin: 3px 3px;
+	border-radius: 5px;
+}
+
+.card_btn {
+	margin-left: 3px;
+	margin-bottom: 3px;
+	display: inline-block;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:100%;
+}
+
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.hr {
+	margin: -10px -10px;
+}
+
+.container_2 {
+	background-color: ghostwhite;
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+
+.h5_title {
+	text-decoration: underline;
+}
+
+
+
+/* ========================== Details ================== */
+/* Details Styles */
+.container_3 {
+	margin-top: 80px;
+}
+
+.photo_compagnie {
+	width: 200px;
+	height: 160px;
+	border-radius: 5%;
+	float: left;
+	margin-right: 10px;
+}
+
+.text_info {
+	text-align: justify;
+}
+
+.hr_1 {
+	margin: 5px 5px;
+}
+
+ul {
+	list-style-type: none; 
+}
+
+.ul_list{
+	margin-left: -25px; 
+}
+
+/* =================== Footer ================== */
+
+/* Footer Style */
+.footer_1 {
+	list-style-type: none;
+	margin: 0px 100px;
+}
